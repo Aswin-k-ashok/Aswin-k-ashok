@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aswin-k-ashok
-- 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning react ,django, and kotlin
-- 💞️ I’m looking to collaborate on responsive and static websites
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning j.s , node js, express
+- 💞️ I’m looking to collaborate on responsive and static websites and web apps
 - 📫 You can contact me on instagram @loner.____
 
 <!---
