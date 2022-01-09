@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aswin-k-ashok
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning j.s , node js, express
+- 🌱 I’m currently learning j.s , node js, express,React
 - 💞️ I’m looking to collaborate on responsive and static websites and web apps
 - 📫 You can contact me on https://aswin-k-ashok.github.io/meTemplate/
 
