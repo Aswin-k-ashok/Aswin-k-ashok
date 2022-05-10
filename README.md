@@ -1,4 +1,4 @@
-Hi 👋 My name is Aswin
+👋 Hi i'm Aswin
 ======================
 
 Full stack web developer
