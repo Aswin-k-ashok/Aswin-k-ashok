@@ -7,7 +7,7 @@ Full stack web developer
 passionate about coding . Enthusiastic and love to learn and work on New and old technologies
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [aswinkashok0@gmail.com](mailto:aswinkashok0@gmail.com)
+* ✉️  You can contact me at _ [![Gmail Badge](https://img.shields.io/badge/-aswinkashok0@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mohammedrafeeqma@gmail.com)](mailto:aswinkashok0@gmail.com)
 * 🧠  I'm learning web technologies
 * 🤝  I'm open to collaborating on anything that related to web development
 
