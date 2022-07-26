@@ -22,9 +22,9 @@ src="https://img.shields.io/github/followers/Aswin-k-ashok?logo=github&style=for
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/) [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,redux,sass)](https://skillicons.dev)
 
