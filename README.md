@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/Aswin-k-ashok?logo=github&style=for
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,redux,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/) [![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/) [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,git,figma,github,linux,vim,docker)](https://skillicons.dev)
 
