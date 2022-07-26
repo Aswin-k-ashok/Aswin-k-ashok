@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Aswin-k-ashok?logo=github&style=for
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/) [![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/) [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,heroku,git,figma,github,linux,vim,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) [![My Skills](https://skillicons.dev/icons?i=heroku)](https://devcenter.heroku.com/categories/reference) [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/developers) [![My Skills](https://skillicons.dev/icons?i=github)](https://docs.github.com/en) [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![My Skills](https://skillicons.dev/icons?i=vim)](https://www.vim.org/) [![My Skills](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)
 
 
 
